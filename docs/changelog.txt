@@ -1,6 +1,22 @@
 8-bit Badge Set changelog
 =========================
 
+v0.1.1 (2026-03-13)
+-------------------
+
+Added
+^^^^^
+- Flag for Georgia.
+- Flag for Malaysia.
+
+Fixed
+^^^^^
+- Swapped colors for flag of Eritrea.
+- Wrong color shade for flag of Norway.
+- Wrong color shade for flag of Hungary.
+- Wrong badge name for European Union flag.
+
+
 v0.1.0 (2026-03-13)
 -------------------
 Initial release.
