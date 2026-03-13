@@ -20,7 +20,7 @@ SHELL := /bin/bash
 ##################################################################
 
 # Definition of the grfs
-REPO_NAME           ?= Pixel Badge Set
+REPO_NAME           ?= 8-bit Badge Set
 
 # This is the filename part common to the grf file, main source file and the tar name
 BASE_FILENAME       ?= 8bit-badges
