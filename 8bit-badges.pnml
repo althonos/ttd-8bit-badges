@@ -1,6 +1,6 @@
 // define the newgrf
 grf {
-	grfid:	"PXBG";
+	grfid:	"8BBS";
 	name:	string(STR_GRF_NAME);
 	desc:	string(STR_GRF_DESCRIPTION);
     url:    string(STR_GRF_URL);

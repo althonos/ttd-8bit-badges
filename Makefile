@@ -23,7 +23,7 @@ SHELL := /bin/bash
 REPO_NAME           ?= Pixel Badge Set
 
 # This is the filename part common to the grf file, main source file and the tar name
-BASE_FILENAME       ?= badges
+BASE_FILENAME       ?= 8bit-badges
 
 # Directory structure
 SCRIPT_DIR          ?= scripts
