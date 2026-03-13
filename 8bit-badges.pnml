@@ -8,6 +8,8 @@ grf {
 	min_compatible_version:	6630;
 }
 
+// --- Flag ---
+
 badgetable {
     /* Flag */
     "flag",
@@ -263,11 +265,13 @@ badgetable {
 }
 
 item (FEAT_BADGES, flag) {
-    property {            
-        label: "flag";    
+    property {
+        label: "flag";
         name:  string(STR_CLASS_FLAG);
-    }                                 
+    }
 }
+
+// --- Flag - ISO 3611 Flags ---
 
 #define FLAG(id) \
     spriteset(sprite_flag_ ## id, format_string("gfx/flag/%s.xpm", #id)) { \
@@ -306,7 +310,6 @@ FLAG(EE)
 FLAG(EG)
 FLAG(ER)
 FLAG(ES)
-FLAG(EU)
 FLAG(FI)
 FLAG(FR)
 FLAG(GB)
@@ -359,3 +362,19 @@ FLAG(US)
 FLAG(UY)
 FLAG(ZA)
 FLAG(ZW)
+
+// --- Flag - European Union ---
+
+spriteset(sprite_flag_europe, "gfx/flag/europe.xpm") {
+    [0, 0]
+}
+
+item (FEAT_BADGES, flag_europe) {
+    property {
+        label: "flag/europe";
+        name:  string(STR_FLAG_EUROPE);
+    }
+    graphics {
+        default: sprite_flag_europe;
+    }
+}
