@@ -1,6 +1,18 @@
 8-bit Badge Set changelog
 =========================
 
+v0.1.2 (2026-03-30)
+-------------------
+
+Added
+^^^^^
+- Flag for Lithuania.
+- Flag for South Korea.
+- Flag for Myanmar.
+- Flag for Madagascar.
+- Flag for Belarus.
+
+
 v0.1.1 (2026-03-13)
 -------------------
 
