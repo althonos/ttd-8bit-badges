@@ -390,3 +390,37 @@ item (FEAT_BADGES, flag_europe) {
         default: sprite_flag_europe;
     }
 }
+
+// --- Power / Propulsion ---
+
+item (FEAT_BADGES, power) {
+    property {
+        label: "power";
+        name:  string(STR_CLASS_POWER);
+    }
+}
+
+#define POWER(id, path) \
+    spriteset(sprite_power_ ## id, format_string("gfx/power/%s.xpm", path)) { \
+        [0, 0] \
+    } \
+    item (FEAT_BADGES, power_ ## id) {              \
+        property {                                  \
+            label: format_string("power/%s", path); \
+            name:  string(STR_POWER_ ## id);        \
+        }                                           \
+        graphics {                                  \
+            default: sprite_power_ ## id ;          \
+        }                                           \
+    }
+
+// POWER(battery, "battery")
+POWER(diesel, "diesel")
+POWER(dual, "dual")
+POWER(gasoline, "gasoline")
+POWER(electric, "electric")
+POWER(electric_ac, "electric/ac")
+POWER(electric_dc, "electric/dc")
+// POWER(hydrogen, "hydrogen")
+POWER(steam, "steam")
+POWER(turbine, "turbine")

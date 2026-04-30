@@ -7,6 +7,7 @@ STR_GRF_URL             :https://www.tt-forums.net/viewtopic.php?t=92033
 
 # Badge classes
 STR_CLASS_FLAG         :Country
+STR_CLASS_POWER        :Propulsion
 
 # Flags - Country
 STR_FLAG_AD            :Andorra
@@ -261,3 +262,16 @@ STR_FLAG_ZW            :Zimbabwe
 
 # Flags - Special
 STR_FLAG_EUROPE        :European Union
+
+#power
+STR_POWER_steam                       :Steam
+STR_POWER_dual                        :Dual-mode
+STR_POWER_diesel                      :Diesel
+STR_POWER_electric                    :Electric
+STR_POWER_electric_ac                 :Electric (AC)
+STR_POWER_electric_dc                 :Electric (DC)
+STR_POWER_turbine                     :Gas Turbine
+STR_POWER_battery                     :Battery
+STR_POWER_gasoline                    :Petrol
+STR_POWER_natural_gas                 :Natural Gas
+STR_POWER_hydrogen                    :Hydrogen
