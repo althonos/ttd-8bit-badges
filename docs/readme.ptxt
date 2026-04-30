@@ -74,7 +74,8 @@ in NML set by althonos.
 6 Credits
 ---------
 
-All flags were created by their respective author in 2cc Trains in NML:
+All flags were created by their respective author in 2cc Trains in NML
+or 2cc Narrow Gauge in NML:
 - Emperor Jake
 - Purno
 - Voyager One
@@ -82,9 +83,7 @@ All flags were created by their respective author in 2cc Trains in NML:
 - Colossal404
 - trainboy2004
 - uzurpator
-
-With the exception of the following flags:
-- `flag/BB`, `flag/BD`, `flag/KH`, `flag/SM`, `flag/MM`, `flag/MG`: (c) althonos
+- althonos
 
 Makefile system:
 - planetmaker (Ingo von Borstel)
@@ -96,7 +95,7 @@ Makefile system:
 7.1 Bug reports
 ---------------
 Please report any bugs you find at the
-  bug tracker: https://github.com/althonos/2ccng/issues
+  bug tracker: https://github.com/althonos/ttd-8bit-badges
   or forum topic: https://www.tt-forums.net/viewtopic.php?t=92736
 
 Always included a detailed description of the bug, preferrably with
@@ -154,9 +153,9 @@ with this program; if not, write to the Free Software Foundation, Inc.,
 ----------------------
 
 The source code can be found on GitHub:
-    https://github.com/althonos/2ccng
+    https://github.com/althonos/ttd-8bit-badges
 
 
 The original 2cc Trains in NML source code is on the 
 OpenTTDCoop GitHub organization:
-	https://github.com/openttdcoop/2ccts
+    https://github.com/openttdcoop/2ccts
