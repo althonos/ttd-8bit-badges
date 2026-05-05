@@ -1,6 +1,25 @@
 8-bit Badge Set changelog
 =========================
 
+v0.2.0 (2026-05-05)
+-------------------
+
+Added
+^^^^^
+- Basic icons for power types (``steam``, ``diesel``, etc.)
+- Flag for Columbia.
+- Flag for Ecuador.
+- Flag for Sierra Leone.
+- Flag for Democratic Republic of the Congo
+- Flag for Republic of the Congo.
+- Flag for Gabon.
+- Flag for Tanzania.
+- Flag for Bolivia.
+- Flag for Ivory Coast.
+- Flag for Costa Rica.
+- Flag for Paraguay.
+
+
 v0.1.2 (2026-03-30)
 -------------------
 
