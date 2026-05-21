@@ -50,7 +50,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: bundle
-          path: bundle/*
+          path: bundle/
       - name: Generate release text
         run: sh docs/release-text.sh > docs/release-text.rst
       - name: Convert to markdown
