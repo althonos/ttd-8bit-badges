@@ -59,4 +59,4 @@ jobs:
         uses: ncipollo/release-action@v1
         with:
           artifacts: "bundle/*.tar.gz"
-          bodyFile: "docs/release-text.rst"
+          bodyFile: "docs/release-text.md"
