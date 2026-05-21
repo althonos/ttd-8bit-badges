@@ -1,6 +1,15 @@
 8-bit Badge Set changelog
 =========================
 
+v0.2.1 (2026-05-21)
+-------------------
+
+Added
+^^^^^
+- Flag for Venezuela.
+- Flag for Thailand.
+- Flag for Hong-Kong.
+
 v0.2.0 (2026-05-05)
 -------------------
 
