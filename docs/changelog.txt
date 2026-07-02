@@ -1,6 +1,18 @@
 8-bit Badge Set changelog
 =========================
 
+v0.2.2 (2026-07-02)
+-------------------
+
+Added
+^^^^^
+- 20 new flags, mostly from Africa.
+
+Fixed
+^^^^^
+- Incorrect country name for `flag/GA` (Gabon).
+
+
 v0.2.1 (2026-05-21)
 -------------------
 
