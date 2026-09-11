@@ -1,6 +1,18 @@
 8-bit Badge Set changelog
 =========================
 
+v0.2.3 (2026-09-11)
+-------------------
+
+Added
+^^^^^
+- Flags of Azerbaijan, Jamaica, Slovenia, Mongolia, Pakistan.
+
+Fixed
+^^^^^
+- Alignment in dual-mode power icon.
+
+
 v0.2.2 (2026-07-02)
 -------------------
 
